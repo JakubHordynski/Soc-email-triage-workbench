@@ -14,7 +14,7 @@ Unlike traditional security awareness quizzes that rely on obvious spelling erro
 
 ## Project Genesis & Authorship (Domain Expertise + AI-Augmented Engineering)
 
-This project was built using a modern **AI-Augmented Engineering ("Vibe Coding")** workflow, combining **human cybersecurity domain direction** with **LLM-assisted front-end implementation**:
+This project was built using a modern **AI-Augmented Engineering** workflow, combining **human cybersecurity domain direction** with **LLM-assisted front-end implementation**:
 
 * **Security Architecture, Threat Modeling & QA (Human-Led):**
   * **Attack Taxonomy & Evasion Design:** Researched, selected, and curated real-world phishing tactics and adversary tradecraft (inspired by threat intelligence advisories from Netcraft, financial fraud alerts, and red/blue team case studies).
