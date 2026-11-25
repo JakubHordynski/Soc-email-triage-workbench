@@ -4,7 +4,7 @@
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-v15%20Aligned-ef4444.svg)](https://attack.mitre.org/)
 [![NIST SP 800-61r2](https://img.shields.io/badge/NIST-SP%20800--61r2-10b981.svg)](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
 [![Architecture](https://img.shields.io/badge/Architecture-Vanilla%20ES6%20Modular-8b5cf6.svg)]()
-[![Development](https://img.shields.io/badge/Methodology-AI--Augmented%20%2F%20Vibe--Coded-f59e0b.svg)]()
+[![Development](https://img.shields.io/badge/Methodology-AI--Augmented%20%2F%20.svg)]()
 
 An interactive, multi-channel **Security Operations Center (SOC) Incident Response & Phishing Triage Simulator** designed to mirror real-world **Tier-1 / Tier-2 analyst workflows**.
 
