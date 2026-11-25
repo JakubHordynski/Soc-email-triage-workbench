@@ -100,7 +100,7 @@ soc-email-triage-workbench/
 
 ### Option 1: Live Interactive Demo (GitHub Pages)
 Run the workbench directly in your browser without installing anything:
-> 🔗 **[Launch SOC Communications Triage Workbench](https://JakubHordynski.github.io/Cybersecurity-projects/Soc-email-triage-workbench/)**
+> 🔗 **[Launch SOC Communications Triage Workbench]([https://JakubHordynski.github.io/Cybersecurity-projects/Soc-email-triage-workbench/](https://JakubHordynski.github.io/Soc-email-triage-workbench/))**
 
 ### Option 2: Run Locally
 ```bash
